@@ -13,6 +13,14 @@ Download latest python release from the official python website.
 ```
 https://www.python.org/downloads/
 ```
+Installation of IDE.
+```
+https://code.visualstudio.com/download
+```
+Add Python Linting.
+```
+https://marketplace.visualstudio.com/items?itemName=ms-python.python
+```
 
 ## Week 1
 
