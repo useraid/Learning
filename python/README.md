@@ -2,9 +2,10 @@
 
 ## Contents
 
-- [Installation](https://github.com/useraid/Learning/tree/master/python/README.md#installation)
-- [Week 1](https://github.com/useraid/Learning/blob/master/python/README.md#week-1)
-- [Week 2](https://github.com/useraid/Learning/blob/master/python/README.md#week-2)
+- [Installation](#installation)
+- [Week 1](#week-1)
+- [Week 2](#week-2)
+- [Additional Resources](#additional-resources)
 
 
 ## Installation
@@ -37,3 +38,7 @@ Stuff to complete this week
 ## Week 2
 
 Will be added.
+
+## Additional Resources
+
+https://www.youtube.com/watch?v=_uQrJ0TkZlc
