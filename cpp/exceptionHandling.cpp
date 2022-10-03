@@ -7,7 +7,7 @@ int fun(int x, int y){
     }
 int main(){
     try{
-        int m = fun(50,2);
+        int m = fun(50,0);
         cout << m;
     } catch (const char* msg){ // or use ... 
         cerr <<msg<<endl;
