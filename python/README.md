@@ -42,3 +42,4 @@ Will be added.
 ## Additional Resources
 
 https://www.youtube.com/watch?v=_uQrJ0TkZlc
+https://www.youtube.com/watch?v=HGOBQPFzWKo
