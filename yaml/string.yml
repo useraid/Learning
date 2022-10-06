@@ -1,0 +1,7 @@
+multilineString: |
+  this is a multilineString
+  and this is next line
+
+singlelineString: >
+  this is a single line string,
+  all this will be interpreted on one line.
